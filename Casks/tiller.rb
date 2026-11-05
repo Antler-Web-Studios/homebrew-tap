@@ -1,6 +1,6 @@
 cask "tiller" do
-  version "1.0.2"
-  sha256 "7cbd0e726d7e93c0f6fb9989e0d8e5f0648d1de84796046999e81e73b9e41806"
+  version "1.0.3"
+  sha256 "3bde53aaf6c386a5b0c37c3285785a038f4e35f96075f779fc69ca2301d07e6d"
 
   url "https://github.com/Antler-Web-Studios/tiller/releases/download/v#{version}/Tiller-#{version}-arm64.dmg"
   name "Tiller"
